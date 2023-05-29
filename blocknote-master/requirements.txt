@@ -1,0 +1,5 @@
+django-ckeditor
+Django
+python-dotenv
+django-simple-history
+django-tinymce
